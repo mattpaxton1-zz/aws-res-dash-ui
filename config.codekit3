@@ -226,7 +226,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/styles.css",
+		"oAP": "\/docs\/css\/styles.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
@@ -2235,7 +2235,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
-	"previewPathAddition": "",
+	"previewPathAddition": "docs\/index.html",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
