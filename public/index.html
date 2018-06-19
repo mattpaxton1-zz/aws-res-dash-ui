@@ -1,0 +1,139 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>AWS Resources Dashboard</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+<nav class='header-nav'>
+  <div class='site-title'>AWS Resources Dashboard</div>
+  <ul class='nav-left'>
+    <li><a href="#" class='menu-link'>Projects</a></li>
+    <li><a href="#" class='active menu-link'>Audits</a></li>
+  </ul>
+  <ul class='nav-right'>
+    <li>
+      <div class="dropdown">
+        <button class="icon-btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title='user menu'>
+          <img src='img/user-icon.svg' alt='refresh' class='icon'>
+        </button>
+        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
+          <a href='#' class="dropdown-item disabled">Profile</a>
+          <div class="dropdown-divider"></div>
+          <a href='#' class="dropdown-item">Logout</a>
+        </div>
+      </div>
+    </li>
+    <li><a href="#" class='icon-btn menu-link' title='refresh'><img src='img/refresh-icon.svg' alt='refresh' class='icon'></a></li>
+  </ul>
+</nav>
+
+<main role='main' class='main-content-wrap'>      
+<div class='contain-max container'>
+<!-- begin dynamic page content area -->
+
+<h1 class='light-font'>Audits</h1>
+<hr>
+<!--
+<div class='tiny-caps filter-menu-title'>Filters</div>
+-->
+
+<div class="filter-menu container">
+  <div class="form-row">
+    <div class="form-group col-md-4">
+        <label for="status-filter">Status</label>
+        <select class="form-control" id="type-filter">
+          <option>Any</option>
+          <option>Valid</option>
+          <option>Invalid</option>
+        </select>
+    </div>
+    
+    <div class="form-group col-md-4">
+        <label for="type-filter">Type</label>
+        <select class="form-control" id="type-filter">
+          <option>Any</option>
+          <option>type 1</option>
+          <option>type 2</option>
+          <option>type 3</option>
+          <option>type 4</option>
+        </select>
+    </div>
+    
+    <div class="form-group col-md-4">
+        <label for="other-filter">Other Prop</label>
+        <select class="form-control" id="other-filter">
+          <option>Donuts</option>
+        </select>
+    </div>
+  </div>
+</div>
+
+<table class="table table-bordered table-hover filter-results-table">
+    <thead class='thead-light'>
+      <tr>
+        <th scope="col">Status</th>
+        <th scope="col">Name</th>
+        <th scope="col">Type</th>
+        <th scope="col">Property 1</th>
+        <th scope="col">Property 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class='status-td valid'></td>
+        <td>Secret Squirrel</td>
+        <td>Animal</td>
+        <td>1234</td>
+        <td>8uie36ha87</td>
+      </tr>
+      <tr>
+        <td class='status-td valid'></td>
+        <td>Suspicious Donkey</td>
+        <td>Animal</td>
+        <td>1234</td>
+        <td>8uie36ha87</td>
+      </tr>
+      <tr>
+        <td class='status-td invalid'></td>
+        <td>Indignant Octopus</td>
+        <td>Animal</td>
+        <td>1234</td>
+        <td>8uie36ha87</td>
+      </tr>
+    </tbody>
+  </table>
+
+<!-- End dynamic page content area -->
+</div>
+</main>
+
+<footer>
+  <img src='img/vertex-logo-white.svg' alt='Vertex Inc. Logo'>  
+</footer>
+
+<!-- bootstrap shizzle: jquery, bootstrap, popper -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+<!--End bootstrap shizzle -->
+
+<!--
+<script src="js/plugins-min.js"></script>
+<script src="js/main-min.js"></script>
+-->
+
+</body>
+</html>

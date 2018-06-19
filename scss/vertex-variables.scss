@@ -1,0 +1,15 @@
+$green : #c3d941;
+$dark-green: #a3b536;
+$blue: #0064d6;
+
+$dark-blue: #003a7a;
+$darkest-blue: #002c5f;
+
+@mixin blue-green-gradient {
+	
+	background: #0064d6; /* Old browsers */
+	background: -moz-linear-gradient(left, #0064d6 0%, #a3b536 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #0064d6 0%,#a3b536 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #0064d6 0%,#a3b536 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0064d6', endColorstr='#a3b536',GradientType=1 ); /* IE6-9 */
+}
