@@ -9,156 +9,156 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/public\/404.html": {
+	"\/404.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/404.html",
+		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/public\/apple-touch-icon.png": {
+	"\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 6452,
 		"oA": 0,
-		"oAP": "\/public\/apple-touch-icon.png",
+		"oAP": "\/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/public\/css\/styles.css": {
+	"\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/styles-min.css",
+		"oAP": "\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/public\/favicon.ico": {
+	"\/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/favicon.ico",
+		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-bold-webfont.woff": {
+	"\/fonts\/montserrat-bold-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-bold-webfont.woff",
+		"oAP": "\/fonts\/montserrat-bold-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-bold-webfont.woff2": {
+	"\/fonts\/montserrat-bold-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-bold-webfont.woff2",
+		"oAP": "\/fonts\/montserrat-bold-webfont.woff2",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-italic-webfont.woff": {
+	"\/fonts\/montserrat-italic-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-italic-webfont.woff",
+		"oAP": "\/fonts\/montserrat-italic-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-italic-webfont.woff2": {
+	"\/fonts\/montserrat-italic-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-italic-webfont.woff2",
+		"oAP": "\/fonts\/montserrat-italic-webfont.woff2",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-light-webfont.woff": {
+	"\/fonts\/montserrat-light-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-light-webfont.woff",
+		"oAP": "\/fonts\/montserrat-light-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-light-webfont.woff2": {
+	"\/fonts\/montserrat-light-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-light-webfont.woff2",
+		"oAP": "\/fonts\/montserrat-light-webfont.woff2",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-regular-webfont.woff": {
+	"\/fonts\/montserrat-regular-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-regular-webfont.woff",
+		"oAP": "\/fonts\/montserrat-regular-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-regular-webfont.woff2": {
+	"\/fonts\/montserrat-regular-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-regular-webfont.woff2",
+		"oAP": "\/fonts\/montserrat-regular-webfont.woff2",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-thin-webfont.woff": {
+	"\/fonts\/montserrat-thin-webfont.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-thin-webfont.woff",
+		"oAP": "\/fonts\/montserrat-thin-webfont.woff",
 		"oF": 0
 		},
-	"\/public\/fonts\/montserrat-thin-webfont.woff2": {
+	"\/fonts\/montserrat-thin-webfont.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/fonts\/montserrat-thin-webfont.woff2",
+		"oAP": "\/fonts\/montserrat-thin-webfont.woff2",
 		"oF": 0
 		},
-	"\/public\/img\/logo-vertex.svg": {
+	"\/img\/logo-vertex.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/img\/logo-vertex.svg",
+		"oAP": "\/img\/logo-vertex.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/img\/refresh-icon.svg": {
+	"\/img\/refresh-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/img\/refresh-icon.svg",
+		"oAP": "\/img\/refresh-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/img\/user-icon.svg": {
+	"\/img\/user-icon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/img\/user-icon.svg",
+		"oAP": "\/img\/user-icon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/img\/vertex-logo-white.svg": {
+	"\/img\/vertex-logo-white.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/public\/img\/vertex-logo-white.svg",
+		"oAP": "\/img\/vertex-logo-white.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/public\/index.html": {
+	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/public\/index.html",
+		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -218,32 +218,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/scss\/plugins\/bootstrap.min.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/scss\/plugins\/bootstrap.min.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/scss\/reset.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/scss\/reset.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/scss\/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -252,7 +226,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/public\/css\/styles.css",
+		"oAP": "\/css\/styles.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
@@ -279,7 +253,7 @@
 	"creationDate": 551033800,
 	"displayValue": "aws-res-dash-ui",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "\/Users\/mattpaxton\/AWS-res-dash-ui\/public\/apple-touch-icon.png",
+	"iconImageName": "\/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2261,7 +2235,6 @@
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
-	"previewPathAddition": "public\/index.html",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
